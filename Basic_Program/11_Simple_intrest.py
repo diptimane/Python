@@ -1,0 +1,5 @@
+p=int(input("Enter principle : "))
+t=int(input("Enter time : "))
+r=int(input("Enter rate : "))
+si=(p*t*r)/(100)
+print("Simple intrest is : ",si)
